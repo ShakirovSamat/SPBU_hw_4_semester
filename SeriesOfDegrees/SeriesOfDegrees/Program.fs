@@ -13,7 +13,6 @@ let createList n m =
     let rec inner lst acc = 
         if acc = n + m + 1 then
             lst
-
         elif acc = n then
             inner ((pow 2 acc)::lst) (acc + 1)
         else
