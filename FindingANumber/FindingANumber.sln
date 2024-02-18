@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FindingANumber", "FindingANumber\FindingANumber.fsproj", "{0655EB56-C1D5-4776-A710-961D1EE2D4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0655EB56-C1D5-4776-A710-961D1EE2D4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0655EB56-C1D5-4776-A710-961D1EE2D4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0655EB56-C1D5-4776-A710-961D1EE2D4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0655EB56-C1D5-4776-A710-961D1EE2D4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3267E4A9-5A76-4BD7-A507-CD6DAF352D83}
+	EndGlobalSection
+EndGlobal
