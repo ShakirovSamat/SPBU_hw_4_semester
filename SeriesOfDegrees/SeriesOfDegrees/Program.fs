@@ -8,12 +8,12 @@
     else
         value * pow (value * value) ((power - 1) / 2)
 
-
 // Первый вариант решения. Громозкий, но зато выполняется наименьшее количество операций возведения в степень
 let createList n m =
     let rec inner lst acc = 
         if acc = n + m + 1 then
             lst
+
         elif acc = n then
             inner ((pow 2 acc)::lst) (acc + 1)
         else
@@ -21,7 +21,6 @@ let createList n m =
     inner [] n
 
 printfn $"%A{(List.rev (createList 5 13))}"
-
 
 //Второе пример решения. Короче, но выполняется чуть больше операций возведения в степень
 let otherCreateList n m =
