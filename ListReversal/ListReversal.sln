@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ListReversal", "ListReversal\ListReversal.fsproj", "{2356BF80-43FC-494F-B203-B0A01C26FF38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2356BF80-43FC-494F-B203-B0A01C26FF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2356BF80-43FC-494F-B203-B0A01C26FF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2356BF80-43FC-494F-B203-B0A01C26FF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2356BF80-43FC-494F-B203-B0A01C26FF38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {773CE622-B7FA-42C9-9748-FE28379FE5D0}
+	EndGlobalSection
+EndGlobal
