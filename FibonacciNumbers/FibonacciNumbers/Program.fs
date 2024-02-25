@@ -1,4 +1,4 @@
-﻿let rec getFibonacchiNumber n =
+﻿let getFibonacchiNumber n =
     if n = 1 then
         0
     elif n = 2 then
